@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kachus
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning, parsing, TelegramBots
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project for beginners
 - 📫 How to reach me kachusova.e@gmail.com
