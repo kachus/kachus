@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kachus
-- 👀 I’m interested in web applications, parsing, TelegramBots
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project for beginners
+- 👀 I’m interested in web applications, parsing, TelegramBots, Django
+- 🌱 I’m currently learning python and want to work in data analysis or as a backend developer
 - 📫 How to reach me kachusova.e@gmail.com
 
 <!---
