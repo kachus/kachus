@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kachus
-- 👀 I’m interested in web applications, parsing, TelegramBots, Django
-- 🌱 I’m currently making telegram bots and would like to work in data analysis or in backend developement
+- 👀 I’m interested in web applications, parsing, TelegramBots, Django, Flask
+- 🌱 I’m currently working on web apps, database management and I'd like to deepen my knowledge and sharpen my skills ✨
 - 📫 How to reach me kachusova.e@gmail.com
 
 <!---
